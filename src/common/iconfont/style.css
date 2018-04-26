@@ -1,0 +1,140 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?cyaqtu');
+  src:  url('fonts/icomoon.eot?cyaqtu#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?cyaqtu') format('truetype'),
+    url('fonts/icomoon.woff?cyaqtu') format('woff'),
+    url('fonts/icomoon.svg?cyaqtu#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.iconfont {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-qrcode:before {
+  content: "\e923";
+  color: #4c4c4c;
+}
+.icon-weChat:before {
+  content: "\e922";
+}
+.icon-garbage:before {
+  content: "\e921";
+}
+.icon-error:before {
+  content: "\e913";
+}
+.icon-success:before {
+  content: "\e920";
+}
+.icon-game:before {
+  content: "\e911";
+}
+.icon-home:before {
+  content: "\e910";
+}
+.icon-choumahui:before {
+  content: "\e909";
+}
+.icon-biyan:before {
+  content: "\e900";
+}
+.icon-succeed:before {
+  content: "\e901";
+}
+.icon-checkPending:before {
+  content: "\e902";
+}
+.icon-Back:before {
+  content: "\e903";
+}
+.icon-persona:before {
+  content: "\e904";
+}
+.icon-close:before {
+  content: "\e905";
+}
+.icon-bet-result-close:before {
+  content: "\e906";
+}
+.icon-guanyu:before {
+  content: "\e907";
+}
+.icon-time:before {
+  content: "\e908";
+}
+.icon-CCB:before {
+  content: "\e90a";
+  color: #003b90;
+}
+.icon-BoCom:before {
+  content: "\e90b";
+  color: #1d2088;
+}
+.icon-jiaoyi:before {
+  content: "\e90c";
+}
+.icon-Warning:before {
+  content: "\e90d";
+}
+.icon-wallet:before {
+  content: "\e90e";
+}
+.icon-calendar:before {
+  content: "\e90f";
+}
+.icon-shanghaiPF:before {
+  content: "\e912";
+  color: #1d2088;
+}
+.icon-refresh:before {
+  content: "\e914";
+}
+.icon-mine:before {
+  content: "\e915";
+}
+.icon-Next:before {
+  content: "\e916";
+}
+.icon-xiazhu:before {
+  content: "\e917";
+}
+.icon-message:before {
+  content: "\e918";
+}
+.icon-bankCard:before {
+  content: "\e919";
+}
+.icon-CMBC:before {
+  content: "\e91a";
+  color: #a61f23;
+}
+.icon-openEyes:before {
+  content: "\e91b";
+}
+.icon-Alipay:before {
+  content: "\e91c";
+}
+.icon-BOC:before {
+  content: "\e91d";
+  color: #b81c22;
+}
+.icon-rolloff:before {
+  content: "\e91e";
+}
+.icon-Into:before {
+  content: "\e91f";
+}
